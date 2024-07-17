@@ -1,0 +1,7 @@
+e-mail
+dados/*
+.venv
+.env
+chatbot/__pycache__
+modelos/__pycache__
+markdown/*

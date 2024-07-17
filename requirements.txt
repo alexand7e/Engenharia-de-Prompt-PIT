@@ -1,0 +1,8 @@
+googlegenerativeai
+openai
+pandas
+requests
+ast
+io
+unittest
+re
