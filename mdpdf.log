@@ -1,0 +1,96 @@
+    INFO: 2024-07-22 12:32:21,532:               log.py:   20: Logging to C:\Users\Alexandre\OneDrive\Documentos\SIA-Projects\Engenharia de Prompt PIT\mdpdf.log
+   DEBUG: 2024-07-22 12:32:21,532:               cli.py:  103: C:\Users\Alexandre\OneDrive\Documentos\SIA-Projects\Engenharia de Prompt PIT//teste.md
+    INFO: 2024-07-22 12:32:21,534:         converter.py:   14: C:\Users\Alexandre\OneDrive\Documentos\SIA-Projects\Engenharia de Prompt PIT//teste.md
+   DEBUG: 2024-07-22 12:32:21,543:      pdf_renderer.py:  470: printSegment: Exercícios que as Pessoas Mais Erram na Academia
+   DEBUG: 2024-07-22 12:32:21,548:      pdf_renderer.py:  470: printSegment: Introdução
+   DEBUG: 2024-07-22 12:32:21,555:      pdf_renderer.py:  470: printSegment: Este artigo destaca os exercícios mais comuns que as pessoas erram na academia, com base na experiência do autor
+   DEBUG: 2024-07-22 12:32:21,560:      pdf_renderer.py:  470: printSegment: como professor de musculação.
+   DEBUG: 2024-07-22 12:32:21,562:      pdf_renderer.py:  470: printSegment: Erros Comuns
+   DEBUG: 2024-07-22 12:32:21,564:      pdf_renderer.py:  470: printSegment: Rosca Direta
+   DEBUG: 2024-07-22 12:32:21,564:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-07-22 12:32:21,570:      pdf_renderer.py:  470: printSegment: Erro:
+   DEBUG: 2024-07-22 12:32:21,570:      pdf_renderer.py:  470: printSegment:  Cotovelo aberto
+   DEBUG: 2024-07-22 12:32:21,580:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-07-22 12:32:21,581:      pdf_renderer.py:  470: printSegment: Correção:
+   DEBUG: 2024-07-22 12:32:21,582:      pdf_renderer.py:  470: printSegment:  Manter o cotovelo fechado
+   DEBUG: 2024-07-22 12:32:21,583:      pdf_renderer.py:  470: printSegment: Tríceps Pulley
+   DEBUG: 2024-07-22 12:32:21,585:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-07-22 12:32:21,586:      pdf_renderer.py:  470: printSegment: Erro:
+   DEBUG: 2024-07-22 12:32:21,587:      pdf_renderer.py:  470: printSegment:  Movimento excessivo do cotovelo
+   DEBUG: 2024-07-22 12:32:21,588:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2024-07-22 12:32:21,588:      pdf_renderer   DEBUG: 2024-07-22 12:32:54,827:      pdf_renderer.py:  470: printSegment: diferente e estamos prestes a entrar fazendo com que o exercício fique ruim tirando o trabalho muscular e
+   DEBUG: 2024-07-22 12:34:05,547:      pdf_renderer.py:  470: printSegment: consequentemente desenvolvimento desse músculo ou seja essa espécie você não pode cometer não desgraçado que parece
+   DEBUG: 2024-07-22 12:35:03,167:      pdf_renderer.py:  470: printSegment: você né a mesma roupa é coincidência só esse vídeo não estaria completo Se a gente não falasse da rosca e esse aqui é um
+   DEBUG: 2024-07-22 12:36:10,560:      pdf_renderer.py:  470: printSegment: erro tão legal que Possivelmente você nem se ligou que ele é um erro você conseguiu identificar o erro é difícil ano desse
+   DEBUG: 2024-07-22 12:37:25,956:      pdf_renderer.py:  470: printSegment: movimento percebe que o meu braço ele tá completamente parado do lado do meu corpo enquanto o meu antebraço se
+   DEBUG: 2024-07-22 12:38:26,136:      pdf_renderer.py:  470: printSegment: movimenta o movimento que era para estar completamente estabilizado aqui atrás ele tava fazendo todo esse balanço
+   DEBUG: 2024-07-22 12:39:19,469:      pdf_renderer.py:  470: printSegment: vamos dizer assim então acaba sendo mais intuitivo fazer o erro tem que ter um outro ponto é muito simples para você
+   DEBUG: 2024-07-22 12:40:12,116:      pdf_renderer.py:  470: printSegment: cometer esse erro é só você movimentar um pouco cotovelo é o fácil levando ao mais fácil ainda é isso aqui é batata agora
+   DEBUG: 2024-07-22 12:41:00,640:      pdf_renderer.py:  470: printSegment: a gente vai para outro habitat eu não sei que nem que bicho é aquele pesa 154 kg um exercício que a gente mais vê a
+   DEBUG: 2024-07-22 12:41:47,608:      pdf_renderer.py:  470: printSegment: galera errando remada o erro que muitos cometem aqui é balançar demais percebe que existe uma inclinação grande do
+   DEBUG: 2024-07-22 12:42:32,545:      pdf_renderer.py:  470: printSegment: corpo lá para trás e uma inclinação grande do corpo para frente Ohana existe isso aqui vai dar problema hein e o
+   DEBUG: 2024-07-22 12:43:16,879:      pdf_renderer.py:  470: printSegment: Arnold fazia esse vai dar problema para nós esse exercício é um exercício para ó vou corrigir Agora presta atenção Olha o
+   DEBUG: 2024-07-22 12:43:57,793:      pdf_renderer.py:  470: printSegment: que vai acontecer com o meu cotovelo Agora sim eu tô fazendo exercício certo Possivelmente você comete ele há anos
+   DEBUG: 2024-07-22 12:44:36,982:      pdf_renderer.py:  470: printSegment: e nem sabe quando esse cotovelo afasta o que que tá acontecendo o que eu chamo de dissipação de Vetor de força você
+   DEBUG: 2024-07-22 12:45:14,132:      pdf_renderer.py:  470: printSegment: tá pegando um peso que era para estar só em cima do seu bíceps e tá distribuindo ele para outras estruturas erro que
+   DEBUG: 2024-07-22 12:45:51,027:      pdf_renderer.py:  470: printSegment: você nem sabe que comete sabe o que tá acontecendo com o desenvolvimento do seu B hospício vai te dar problema
+   DEBUG: 2024-07-22 12:46:24,923:      pdf_renderer.py:  470: printSegment: mais cedo ou mais tarde aí você pode falar porra mas o aro eles fazia e não teve problema nenhum não sei o que
+   DEBUG: 2024-07-22 12:46:55,970:      pdf_renderer.py:  470: printSegment: aconteceu com ele o bicho deve ser de Ferro mesmo porque isso machuque do jeito que ele fazia então meu Deus do
+   DEBUG: 2024-07-22 12:47:22,212:      pdf_renderer.py:  470: printSegment: céu Palio com a mão nesse momento você vai viajar a mais de 100 milhões de anos era os dinossauros então eu vou pedir
+   DEBUG: 2024-07-22 12:47:47,303:      pdf_renderer.py:  470: printSegment: para você tomar cuidado e vim com calma aqui comigo porque nessa região tem um tal de dino que faz um exercício é o
+   DEBUG: 2024-07-22 12:48:12,581:      pdf_renderer.py:  470: printSegment: dinossauro vamos ver porque esse ele é muito comum mas nem sempre tem um cara abaixa abaixa abaixa ó está
+   DEBUG: 2024-07-22 12:48:35,357:      pdf_renderer.py:  470: printSegment: vendo ali a espécie do Balango é uma elevação lateral com balanço ele existe mostra lá para nós é um exercício de elevação
+   DEBUG: 2024-07-22 12:48:56,861:      pdf_renderer.py:  470: printSegment: lateral mas ele não deveria ter aquele balanço todo e o balanço ele acontece porque porque facilita o movimento olha lá
+   DEBUG: 2024-07-22 12:49:17,209:      pdf_renderer.py:  470: printSegment: de novo como é que funciona Ao invés dele ficar com a postura completamente estática com o tronco ali alinhado
+   DEBUG: 2024-07-22 12:49:36,328:      pdf_renderer.py:  470: printSegment: ereto ele fica balançando e esse balanço isso faz mal para as costas se você fizer isso aqui ó se você arredondar as costas
+   DEBUG: 2024-07-22 12:49:54,707:      pdf_renderer.py:  470: printSegment: faz mal por que o alarme Olha o que eu tinha feito antes ó percebem que minha lombar está preservada Se eu fizer
+   DEBUG: 2024-07-22 12:50:11,692:      pdf_renderer.py:  470: printSegment: isso só você sabe que ela ficou arredondada Isso sim faz mal para sua coluna porque suas vértebras os seus discos
+   DEBUG: 2024-07-22 12:50:28,019:      pdf_renderer.py:  470: printSegment: intervertebrais Eles foram produzidos para manter a curvatura das suas costas Ou seja a lordose lombar você está
+   DEBUG: 2024-07-22 12:50:43,343:      pdf_renderer.py:  470: printSegment: invertendo dorsal da musculatura lateral aqui das suas costas quando você desenvolve ela você ganha a expansão isso é
+   DEBUG: 2024-07-22 12:50:57,535:      pdf_renderer.py:  470: printSegment: supimpa mas quando você mete os Balango aqui ó você tá combinando a remada com o exercício de lombar com isso
+   DEBUG: 2024-07-22 12:51:11,078:      pdf_renderer.py:  470: printSegment: você dissipa toda cara fazendo com que todo o trabalho que deveria ser só para dorsal se torne também para sua lombar
+   DEBUG: 2024-07-22 12:51:23,714:      pdf_renderer.py:  470: printSegment: E por que que todo mundo palhacinho é mais fácil viu o Arnold fazia também então o que que você vai fazer a próxima vez
+   DEBUG: 2024-07-22 12:51:35,867:      pdf_renderer.py:  470: printSegment: que você for fazer rosca direta de frente para o espelho e vai observar o seu cotovelo você vai colocar uma intenção em
+   DEBUG: 2024-07-22 12:51:46,990:      pdf_renderer.py:  470: printSegment: fechar esse cotovelo é contra intuitivo exatamente por isso que 99% das pessoas que eu passava Ali chegou no
+   DEBUG: 2024-07-22 12:51:57,106:      pdf_renderer.py:  470: printSegment: habitar na rosca direta Ah tava lá asinha de frango aberta vamos ver o que esse animal formidável é capaz de fazer
+   DEBUG: 2024-07-22 12:52:06,935:      pdf_renderer.py:  470: printSegment: Estamos chegando agora no habitat dos monstros que treinam costas e a gente já tem ali ó braços gigas ele faz exercício
+   DEBUG: 2024-07-22 12:52:15,952:      pdf_renderer.py:  470: printSegment: aqui tem muitas pessoas que admiram muito esse dinossauro e querem ficar com esse braço igual dele e aí comete
+   DEBUG: 2024-07-22 12:52:24,403:      pdf_renderer.py:  470: printSegment: exatamente o erro que eu vou trazer aqui para você então o exercício é esse aqui ó parece ser simples né difícil de errado
+   DEBUG: 2024-07-22 12:52:32,245:      pdf_renderer.py:  470: printSegment: olha lá ó flexão no punho e volta flexão não punho e volta mas o que que acontece aqui de erro amplitude as pessoas
+   DEBUG: 2024-07-22 12:52:39,785:      pdf_renderer.py:  470: printSegment: acabam fazendo com uma amplitude menor amplitude menor faz com que a exigência que você precisa trocar ele viu
+   DEBUG: 2024-07-22 12:52:46,167:      pdf_renderer.py:  470: printSegment: então já clica aqui agora porque tem até um teste para você descobrir se ele é bom ou se ele é ruim agora clica aqui ele é
+   DEBUG: 2024-07-22 12:52:51,849:      pdf_renderer.py:  470: printSegment: porque a galera vai achar que ele tava errando de verdade é tudo armado o bicho já é Domado já hahahaha iPhone
+   DEBUG: 2024-07-22 12:52:57,406:      pdf_renderer.py:  470: printSegment: menor você acaba trabalhando menos o seu músculo E sem contar que quanto mais você alongar o músculo Mas você
+   DEBUG: 2024-07-22 12:53:02,437:      pdf_renderer.py:  470: printSegment: provoca nele o que a gente chama de dano tecidual e o dano tecidual é maravilhoso para estimular a hipertrofia e esse
+   DEBUG: 2024-07-22 12:53:07,080:      pdf_renderer.py:  470: printSegment: erro ele passa meio que camuflado sabia não é que ele tá atrás dos arbustos das Árvores dos bagulho não é Porque
+   DEBUG: 2024-07-22 12:53:11,336:      pdf_renderer.py:  470: printSegment: conforme a pessoa vai fazendo aqui ó na amplitude reduzida o que que ela acaba sentindo muito ardor muscular
+   DEBUG: 2024-07-22 12:53:15,446:      pdf_renderer.py:  470: printSegment: começa a queimar muito e ela acha que por conta disso o músculo que está sendo trabalhado mas não o músculo está só
+   DEBUG: 2024-07-22 12:53:19,549:      pdf_renderer.py:  470: printSegment: em acidose mas todo o trabalho de dano tecido a O que é supimpa passou hipertrofia não tá acontecendo esse erro aqui
+   DEBUG: 2024-07-22 12:53:23,084:      pdf_renderer.py:  470: printSegment: esse é o cansei corrigir vamos entrar agora num habitar que tem também um bicho perigoso e vamos ver se a gente
+   DEBUG: 2024-07-22 12:53:26,214:      pdf_renderer.py:  470: printSegment: acha um Caraca achei bom tá fazendo ali ó como calma amigo amigo Calma calma agora levanta o quadril E aí com
+   DEBUG: 2024-07-22 12:53:28,858:      pdf_renderer.py:  470: printSegment: isso o terceiro do quadril criando a verdade o impulso para a perna subir e aí o quadrinho você não trabalha nada né Eu
+   DEBUG: 2024-07-22 12:53:31,156:      pdf_renderer.py:  470: printSegment: não tô controlando vou fazer o seguinte qual é o certo aqui irmãozão o quadril ele fica no banco full pensa que colou dá
+   DEBUG: 2024-07-22 12:53:33,268:      pdf_renderer.py:  470: printSegment: aquela travada E aí só movimento o joelho Olha que coisa linda pode ir embora não ó a espécie de novo fácil de cometer
+   DEBUG: 2024-07-22 12:53:35,184:      pdf_renderer.py:  470: printSegment: E se eu pedir para você empurra e puxa ao mesmo tempo Oxe mas tá louco o que é isso que precisa fazer aqui pessoa
+   DEBUG: 2024-07-22 12:53:36,808:      pdf_renderer.py:  470: printSegment: empurra aqui ó e olha o que aconteceu vou de novo conseguiu identificar o erro o movimento é só esse Olha o que eu
+   DEBUG: 2024-07-22 12:53:38,251:      pdf_renderer.py:  470: printSegment: tava fazendo ó por que que eu falo que tem que empurrar e puxar ao mesmo tempo porque você tem que empurrar o
+   DEBUG: 2024-07-22 12:53:42,302:      pdf_renderer.py:  470: printSegment: braço e puxar escápula manter a escápula fechada e trabalhar somente o braço o que que você geralmente nesse espaço na
+   DEBUG: 2024-07-22 12:53:50,643:      pdf_renderer.py:  470: printSegment: academia filma lá rolezinho Olha só como que essa espécie faz o exercício completamente encurtado ao invés de alongar
+   DEBUG: 2024-07-22 12:53:51,662:      pdf_renderer.py:  470: printSegment: o máximo possível ela faz ali curtinho em cima e por que disso por que fica mais fácil e ela ainda tem a falsa sensação de
+   DEBUG: 2024-07-22 12:53:52,516:      pdf_renderer.py:  470: printSegment: trabalho muscular por quê porque gera muita acidose Então o que precisa ser feito ali é um movimento mais longo
+   DEBUG: 2024-07-22 12:53:53,185:      pdf_renderer.py:  470: printSegment: ampliando todo o movimento todo arco de movimento aí sim vai ter um trabalho maior da fazer o exercício errado
+   DEBUG: 2024-07-22 12:53:53,750:      pdf_renderer.py:  470: printSegment: aqui você coloca a sua articulação em perigo Então imagina um bicho uma besta na selva perigosa e você tá colocando
+   DEBUG: 2024-07-22 12:53:54,242:      pdf_renderer.py:  470: printSegment: esse ombro lá perto dela vai dar ruim para você ver se não quando você abre as escápulas com você empurra
+   DEBUG: 2024-07-22 12:53:54,635:      pdf_renderer.py:  470: printSegment: completamente o braço você cria uma instabilidade em toda a sua articulação e isso é bem ruim Pororoca entramos aqui
+   DEBUG: 2024-07-22 12:53:54,948:      pdf_renderer.py:  470: printSegment: outra espécie que é ser modelo dele sobe ó tá vendo parece que ele tá dando uma sarrada no ar a gente tá vendo o bicho
+   DEBUG: 2024-07-22 12:53:55,207:      pdf_renderer.py:  470: printSegment: fazendo um exercício chamado cadeira extensora e esse exercício é danado pra galera cometer esse erro aí ó olha como
+   DEBUG: 2024-07-22 12:53:55,430:      pdf_renderer.py:  470: printSegment: que o quadril dele sobe e desce e na verdade ali não é para o quadril subir nem descer não é para o quadril ficar quieto
+   DEBUG: 2024-07-22 12:53:55,558:      pdf_renderer.py:  470: printSegment: no banco é só para perna macho né balançar para lá e para cá vamos tentar se aproximar Esse bicho é ele pode atacar
+   DEBUG: 2024-07-22 12:53:55,641:      pdf_renderer.py:  470: printSegment: velho assustar um animal Calma calma essa espécie aí causa um grande jargão nas salas de musculação por aí que
+   DEBUG: 2024-07-22 12:53:55,695:      pdf_renderer.py:  470: printSegment: panturrilha não cresce mas panturrilha cresce sim é só você parar de cometer o erro que você comete nela Google para
+   DEBUG: 2024-07-22 12:53:55,724:      pdf_renderer.py:  470: printSegment: outro habitat caçar uma outra espécie e essa espécie ela pode ser boa que manda Pode ser ruim para isso você vai clicar
+   DEBUG: 2024-07-22 12:53:55,735:      pdf_renderer.py:  470: printSegment: nesse vídeo aqui ó que é a espécie que a gente está falando é o professor que te dá aula e a gente pode ter aí uma espécie
+   DEBUG: 2024-07-22 12:53:55,737:      pdf_renderer.py:  470: printSegment: que é supimpa um bom professor ou uma espécie que é Brasil lá estava no banco o tempo inteiro a gente tá exagerando
+   DEBUG: 2024-07-22 12:53:55,738:      pdf_renderer.py:  470: printSegment: aqui mas isso
+   DEBUG: 2024-07-22 12:53:55,739:      pdf_renderer.py:   53: 0, [1, 'Erros Comuns na Academia', 1, 68.0]
+   DEBUG: 2024-07-22 12:53:55,739:      pdf_renderer.py:   53: 1, [2, 'Tríceps Pulley', 1, 106.0]

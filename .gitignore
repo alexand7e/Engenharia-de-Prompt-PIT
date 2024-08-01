@@ -4,4 +4,6 @@ dados/*
 .env
 chatbot/__pycache__
 modelos/__pycache__
+palestras/__pycache__
 markdown/*
+downloads

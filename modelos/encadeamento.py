@@ -35,7 +35,7 @@ def optimize_information_flow(policy):
 
 
 def main():
-    prompts = plan_trip_steps("Piauí")
+    prompts = complex_task_prompts("Cultura do caju no Piauí")
 
     try:
         ia = GPTAnalyzer()
