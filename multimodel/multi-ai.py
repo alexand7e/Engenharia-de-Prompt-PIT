@@ -2,10 +2,18 @@ from langchain_openai import OpenAI, ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.chains import SimpleSequentialChain
+from dotenv import load_dotenv
+import os
+
+# Carregar variáveis de ambiente do arquivo .env
+load_dotenv()
+
+# Obter a chave da API do ambiente
+api_key = os.getenv('OPENAI_API_KEY')
 
 # Configurar os modelos de IA
-llm_formatter = OpenAI(api_key='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', temperature=0.5)
-llm_writer = ChatOpenAI(api_key='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', temperature=0.7)
+llm_formatter = OpenAI(api_key=api_key, temperature=0.5)
+llm_writer = ChatOpenAI(api_key=api_key, temperature=0.7)
 
 format_and_topics_prompt = PromptTemplate(
     input_variables=["text"],

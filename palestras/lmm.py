@@ -10,10 +10,17 @@ from google.api_core.exceptions import InternalServerError
 from google.ai.generativelanguage import HarmCategory
 from google.ai.generativelanguage import SafetySetting
 from google.api_core.exceptions import DeadlineExceeded, InternalServerError
+from dotenv import load_dotenv
+
+# Carregar variáveis de ambiente do arquivo .env
+load_dotenv()
+
+# Obter a chave da API do ambiente
+api_key = os.getenv('GEMINI_API_KEY')
 
 class GeminiAnalyzer:
     def __init__(self):
-        genai.configure(api_key="AIzaSyBJvmrt9tuvpT1zxEs1ITciBYHKl2aIR54")#"=os.getenv("GEMINI_API_KEY"))
+        genai.configure(api_key=api_key)#"=os.getenv("GEMINI_API_KEY"))
         self.client = genai.GenerativeModel('gemini-1.5-pro')
         self.client_image = genai.GenerativeModel('gemini-pro-vision')
 
